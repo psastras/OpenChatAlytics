@@ -173,7 +173,7 @@
       <dependency>
         <groupId>com.h2database</groupId>
         <artifactId>h2</artifactId>
-        <version>1.4.191</version>
+        <version>1.4.197</version>
       </dependency>
       <dependency>
         <groupId>org.postgresql</groupId>
@@ -238,7 +238,7 @@
       <dependency>
         <groupId>io.swagger</groupId>
         <artifactId>swagger-jaxrs</artifactId>
-        <version>1.5.8</version>
+        <version>1.5.19</version>
       </dependency>
       <dependency>
         <groupId>io.swagger</groupId>
@@ -248,7 +248,7 @@
       <dependency>
         <groupId>io.swagger</groupId>
         <artifactId>swagger-core</artifactId>
-        <version>1.5.8</version>
+        <version>1.5.14</version>
       </dependency>
 
       <!-- End web dependencies -->
