@@ -218,12 +218,12 @@
       <dependency>
           <groupId>org.eclipse.jetty</groupId>
           <artifactId>jetty-server</artifactId>
-          <version>9.3.8.v20160314</version>
+          <version>9.3.26.v20190403</version>
       </dependency>
       <dependency>
           <groupId>org.eclipse.jetty</groupId>
           <artifactId>jetty-servlet</artifactId>
-          <version>9.3.8.v20160314</version>
+          <version>9.3.26.v20190403</version>
       </dependency>
       <dependency>
         <groupId>com.sun.jersey</groupId>
