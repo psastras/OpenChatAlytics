@@ -178,7 +178,7 @@
       <dependency>
         <groupId>org.postgresql</groupId>
         <artifactId>postgresql</artifactId>
-        <version>9.4.1208</version>
+        <version>42.2.13</version>
       </dependency>
       <dependency>
         <groupId>com.zaxxer</groupId>
@@ -238,7 +238,7 @@
       <dependency>
         <groupId>io.swagger</groupId>
         <artifactId>swagger-jaxrs</artifactId>
-        <version>1.5.8</version>
+        <version>1.6.2</version>
       </dependency>
       <dependency>
         <groupId>io.swagger</groupId>
@@ -248,7 +248,7 @@
       <dependency>
         <groupId>io.swagger</groupId>
         <artifactId>swagger-core</artifactId>
-        <version>1.5.8</version>
+        <version>1.6.2</version>
       </dependency>
 
       <!-- End web dependencies -->
