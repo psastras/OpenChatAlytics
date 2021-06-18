@@ -86,7 +86,7 @@
       <dependency>
         <groupId>org.apache.storm</groupId>
         <artifactId>storm-core</artifactId>
-        <version>1.0.1</version>
+        <version>2.1.0</version>
         <exclusions>
           <exclusion>
             <groupId>org.apache.logging.log4j</groupId>
@@ -203,7 +203,7 @@
       <dependency>
         <groupId>org.eclipse.jetty.websocket</groupId>
         <artifactId>javax-websocket-server-impl</artifactId>
-        <version>9.3.8.v20160314</version>
+        <version>9.4.39.v20210325</version>
       </dependency>
       <dependency>
         <groupId>com.googlecode.matrix-toolkits-java</groupId>
@@ -218,12 +218,12 @@
       <dependency>
           <groupId>org.eclipse.jetty</groupId>
           <artifactId>jetty-server</artifactId>
-          <version>9.3.8.v20160314</version>
+          <version>9.4.39.v20210325</version>
       </dependency>
       <dependency>
           <groupId>org.eclipse.jetty</groupId>
           <artifactId>jetty-servlet</artifactId>
-          <version>9.3.8.v20160314</version>
+          <version>9.4.39.v20210325</version>
       </dependency>
       <dependency>
         <groupId>com.sun.jersey</groupId>
